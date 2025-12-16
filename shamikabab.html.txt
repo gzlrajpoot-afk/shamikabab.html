@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Frozen Beef & Chicken Shami Kabab | Official Store</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #fff7f2;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(90deg, #c0392b, #e67e22);
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+    .product {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 30px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .images {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+    .images img {data:image/jpeg;base64,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
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+    .price {
+      font-size: 24px;
+      margin: 10px 0;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #999;
+      font-size: 18px;
+    }
+    .sale {
+      color: #c0392b;
+      font-weight: bold;
+    }
+    .price-list {
+      background: #fff3e0;
+      padding: 15px;
+      border-radius: 10px;
+      margin: 15px 0;
+      display: none;
+    }
+    .price-list div {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 1px dashed #ccc;
+    }
+    .options button {
+      margin: 5px;
+      padding: 8px 14px;
+      border-radius: 20px;
+      border: 1px solid #e67e22;
+      background: white;
+      cursor: pointer;
+    }
+    .options button:hover {
+      background: #e67e22;
+      color: white;
+    }
+    .quantity {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 15px 0;
+    }
+    .cta button {
+      width: 100%;
+      padding: 14px;
+      font-size: 16px;
+      margin-top: 10px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .add {
+      background: #e67e22;
+      color: white;
+    }
+    .buy {
+      background: #c0392b;
+      color: white;
+    }
+    .ingredients {
+      background: #fdf2e9;
+      padding: 15px;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+    footer {
+      margin-top: 30px;
+      padding: 20px;
+      background: #333;
+      color: white;
+      text-align: center;
+    }
+    footer a { color: #25D366; text-decoration: none; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Frozen Beef & Chicken Shami Kabab</h1>
+    <p>A true taste of tradition, now available at your fingertips</p>
+    <p>📞 Order on WhatsApp: <a href="https://wa.me/923234844744">0323-4844744</a></p>
+  </header>
+
+  <div class="container">
+    <div class="product">
+      <div class="images">
+        <img src="/mnt/data/f115241a-dbec-4502-ac14-0a98724156b2.png" alt="Chicken Shami Kabab" />
+        <img src="https://images.unsplash.com/photo-1604908177522-040c6f69c7cf" alt="Frozen Shami Kabab" />
+        <img src="https://images.unsplash.com/photo-1617191518300-7c1a5e5b6b7e" alt="Shami Kabab" />
+        <img src="https://images.unsplash.com/photo-1627308595229-7830a5c91f9f" alt="Frozen Kabab Pack" />
+      </div>
+
+      <div class="details">
+        <p>⭐ 1 Review</p>
+        <div class="price">
+          <span class="old-price">Rs. 2800</span><br />
+          <span class="sale">Rs. 2600 (Save Rs. 200 • 7% OFF)</span>
+        </div>
+
+        <div class="options">
+          <h4>Select Pack</h4>
+          <button onclick="orderNow('12 Pieces','700')">12 Pieces</button>
+          <button onclick="orderNow('24 Pieces','1350')">24 Pieces</button>
+          <button onclick="orderNow('48 Pieces','2600')">48 Pieces <span style="color:red;font-weight:bold;">🔥 Most Selling</span></button>
+        </div>
+
+        <div class="price-list" id="priceList">
+          <h3>Smart Bundle Pricing (Best Value)</h3>
+          <div><span>12 Pieces (Regular)</span><strong>Rs. 700</strong></div>
+          <div><span>24 Pieces (Save Rs. 50)</span><strong>Rs. 1350</strong></div>
+          <div><span>48 Pieces (Best Deal – Save Rs. 200)</span><strong>Rs. 2600</strong></div>
+        </div>
+          <div><span>24 Pieces</span><strong>Rs. 1400</strong></div>
+          <div><span>48 Pieces</span><strong>Rs. 2800</strong></div>
+        </div>
+        </div>
+          
+
+        <div class="ingredients">
+          <h4>Fresh Ingredients We Use</h4>
+          <ul>
+            <li>Fresh Chicken & Premium Beef</li>
+            <li>Organic Chana Daal</li>
+            <li>Fresh Onion</li>
+            <li>Ginger & Garlic Paste</li>
+            <li>Green Chillies</li>
+            <li>Freshly Ground Masalas & Herbs</li>
+            <li>No Artificial Additives or Preservatives</li>
+            <li>High in Protein</li>
+          </ul>
+          <p><strong>How to Store:</strong> Store in freezer immediately. Stays fresh for 3–4 months.</p>
+          <p><strong>How to Cook:</strong> Pan fry frozen kababs 4–5 minutes on each side until golden brown.</p>
+          <p><strong>Serve & Enjoy:</strong> Best with naan, paratha, or fresh salad.</p>
+        </div>
+
+        <p>📍 Delivery available only in <b>LAHORE</b></p>
+        <p>🚚 Delivered within <strong>Two Business Days</strong></p>
+
+        <div class="cta">
+          <button class="add">Add to Cart</button>
+          <button class="buy">Buy It Now</button>
+        </div>
+        <p><strong>Share:</strong> <a href="#">WhatsApp</a> | <a href="#">Facebook</a> | <a href="#">Instagram</a></p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>📲 WhatsApp Orders: <a href="https://wa.me/923234844744">0323-4844744</a></p>
+    <p>© 2025 Frozen Beef & Chicken Shami Kabab | All Rights Reserved</p>
+  </footer>
+
+  <script>
+    function showPrice() {
+      document.getElementById('priceList').style.display = 'block';
+    }
+    function orderNow(pack, price) {
+      const msg = `Hello, I want to order ${pack} Frozen Shami Kabab. Price: Rs. ${price}. Delivery: Lahore.`;
+      const url = `https://wa.me/923234844744?text=${encodeURIComponent(msg)}`;
+      window.open(url, '_blank');
+    }
+  </script>
+</body>
+</html>
